@@ -1,2 +1,3 @@
 ## Demo
-This is my first file and i am super exited for future journey.
+This is my first file.  
+I am super exited for future journey.
